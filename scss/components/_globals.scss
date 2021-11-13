@@ -1,0 +1,26 @@
+// FONTS 
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Source+Sans+Pro:wght@300&display=swap');
+
+$font-title: 'Abril Fatface', cursive;
+$font-primary: 'Source Sans Pro', sans-serif;
+
+// COLORS
+$blue-dark: #1B2B37;
+$blue-mid: #3A5C6C;
+$blue-light: #3A5C6C;
+$grey-dark: #817F84;
+$grey-light: #C8C3C3;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
