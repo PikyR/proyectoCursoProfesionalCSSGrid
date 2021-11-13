@@ -7,9 +7,9 @@ $font-primary: 'Source Sans Pro', sans-serif;
 // COLORS
 $blue-dark: #1B2B37;
 $blue-mid: #3A5C6C;
-$blue-light: #3A5C6C;
+$blue-light: #2c96c7;
 $grey-dark: #817F84;
-$grey-light: #C8C3C3;
+$grey-light: #dfd7d7;
 
 * {
   margin: 0;
@@ -19,8 +19,12 @@ $grey-light: #C8C3C3;
 
 html {
   font-size: 62.5%;
+  min-width: 870px;  
 }
 
 body {
-  font-size: 1.6rem;
+  background-color: $blue-dark;
+  font-size: 1.4rem;
+  font-family: $font-primary;
+  color: $grey-light;
 }
