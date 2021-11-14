@@ -171,6 +171,16 @@ body {
   position: absolute;
   left: 0;
 }
+.big::after {
+  content: "";
+  width: 440px;
+  height: 80px;
+  background-color: rgba(44, 150, 199, 0.4);
+  border-inline-start: 3px solid #3A5C6C;
+  position: absolute;
+  left: 200px;
+  top: 155px;
+}
 
 .text-bottom {
   padding: 10px;
