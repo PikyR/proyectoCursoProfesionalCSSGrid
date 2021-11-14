@@ -1,7 +1,7 @@
 # Curso Profesional de CSS Grid Layout
 
 ## Proyecto
-Proyecto realizado con lo visto en el **Curso Profesional de CSS Grid Layout** de Platzi.
+Proyecto realizado para el **Curso Profesional de CSS Grid Layout** de Platzi.
 
 **Live demo:**  [Link (Desktop only)](https://pikyr.github.io/proyectoCursoProfesionalCSSGrid/)
 
